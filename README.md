@@ -11,7 +11,7 @@
   </a>
 </p>
 
-> A curated list of password spraying tools, projects, and resources. Note that at this time this project focuses on password spraying tools and resources for Microsoft Office 365 and Azure Entra environments primarily. Please, help organize these resources so that they are easy to find and understand for newcomers. See how to [Contribute][contributing] for tips!
+> A curated list of password spraying tools, projects, and resources. Note that at this time this project focuses on password spraying tools and resources for Microsoft Office 365 and Azure Entra environments primarily. Please, help organize these resources so that they are easy to find and understand for newcomers. PRs are welcome and encouraged! 
 
 **Not all of the code in these frameworks has been audited for security or opsec. Use at your own risk. Always read code before you run it!**
 
