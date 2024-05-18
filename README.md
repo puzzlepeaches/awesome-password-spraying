@@ -1,14 +1,26 @@
-# Awesome Password Spraying [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+<h1 align="center">Awesome Password Spraying</h1>
 
-> A curated list of password spraying tools, projects, and resources. Note that at this time this project focuses on password spraying tools and resources for Microsoft Office 365 and Azure Entra environments primarily.
 
-> Please, help organize these resources so that they are easy to find and understand for newcomers. See how to [Contribute][contributing] for tips!
 
-> Not all of the code in these frameworks has been audited for security or opsec. Use at your own risk. Always read code before you run it!
+<p align="center">
+  View the README in Fullscreen for the best experience!
+</p>
+<p align="center">
+  <a href="https://github.com/puzzlepeaches/awesome-password-spraying/blob/main/README.md">
+    <img src="https://img.shields.io/badge/View-README-blue" alt="View README Fullscreen">
+  </a>
+</p>
+
+> A curated list of password spraying tools, projects, and resources. Note that at this time this project focuses on password spraying tools and resources for Microsoft Office 365 and Azure Entra environments primarily. Please, help organize these resources so that they are easy to find and understand for newcomers. See how to [Contribute][contributing] for tips!
+
+**Not all of the code in these frameworks has been audited for security or opsec. Use at your own risk. Always read code before you run it!**
 
 ---
 
-### Enumeration
+<br>
+<br>
+
+## Enumeration
 
 | Name | Description | Programming Language | Last Commit |
 | --- | --- | --- | --- |
@@ -21,11 +33,9 @@
 | [o365enum](https://github.com/gremwell/o365enum) | Enumerate valid usernames from Office 365 using ActiveSync, Autodiscover, or office.com login page. | Python | ![GitHub Last Commit](https://img.shields.io/github/last-commit/gremwell/o365enum?style=for-the-badge&color=informational) |
 
 <br>
-
----
 <br>
 
-### Password Generation
+## Password Generation
 | Name | Description | Programming Language | Last Commit |
 | --- | --- | --- | --- |
 [weakpasswords.net](https://weakpasswords.net/) | Automatically generated weak password API for password spraying. Built by nyxgeek. | N/A | N/A |
@@ -33,9 +43,7 @@
 
 
 <br>
-
-
----
+<br>
 
 ### Spraying Tools
 
@@ -56,7 +64,11 @@
 | [GoMapEnum](https://github.com/nodauf/GoMapEnum) | Another all in one framework for password spraying, enumeration, and more. | Go | ![GitHub Last Commit](https://img.shields.io/github/last-commit/nodauf/GoMapEnum?style=for-the-badge&color=informational) |
 | [SprayCannon](https://github.com/CausticKirbyZ/SprayCannon) | A really interesting and obscure password spraying framework written in...Crystal? | Crystal | ![GitHub Last Commit](https://img.shields.io/github/last-commit/CausticKirbyZ/SprayCannon?style=for-the-badge&color=informational) |
 
-### Credential Abuse
+<br>
+<br>
+
+
+## Credential Abuse
 
 | Name | Description | Programming Language | Last Commit |
 | --- | --- | --- | --- |
@@ -67,8 +79,10 @@
 | [MailSniper](https://github.com/dafthack/MailSniper) | MailSniper is a penetration testing tool for searching through email in a Microsoft Exchange and O365 environment for specific terms (passwords, insider intel, etc.). OG | PowerShell | ![GitHub Last Commit](https://img.shields.io/github/last-commit/dafthack/MailSniper?style=for-the-badge&color=informational) |
 
 
+<br>
+<br>
 
-### Resources
+## Resources
 | Name | Description | Programming Language | Last Commit |
 | --- | --- | --- | --- |
 | [family-of-client-ids-research](https://github.com/secureworks/family-of-client-ids-research) | Research on undocumented functionality in Azure Active Directory allows a group of Microsoft OAuth client applications to obtain special “family refresh tokens,” which can be redeemed for bearer tokens as any other client in the family. i | Python | ![GitHub Last Commit](https://img.shields.io/github/last-commit/secureworks/family-of-client-ids-research?style=for-the-badge&color=informational) |
