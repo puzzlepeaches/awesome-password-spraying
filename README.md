@@ -100,6 +100,7 @@ Note that this project primarily focuses on password-spraying tools and resource
 | [offensive-azure](https://github.com/blacklanternsecurity/offensive-azure) | Collection of offensive tools targeting Microsoft Azure written in Python to be platform agnostic. | Python | ![GitHub Last Commit](https://img.shields.io/github/last-commit/blacklanternsecurity/offensive-azure?style=for-the-badge&color=informational) |
 | [TokenTacticsV2](https://github.com/f-bader/TokenTacticsV2) | This is an updated version of TokenTactics originally written by Stephan Borosh @rvrsh3ll & Bobby Cooke @0xBoku. | PowerShell | ![GitHub Last Commit](https://img.shields.io/github/last-commit/f-bader/TokenTacticsV2?style=for-the-badge&color=informational) |
 | [TokenTactics](https://github.com/rvrsh3ll/TokenTactics) | Azure JSON Web Token ("JWT") Manipulation Toolset | PowerShell | ![GitHub Last Commit](https://img.shields.io/github/last-commit/rvrsh3ll/TokenTactics?style=for-the-badge&color=informational) |
+| [GraphSpy](https://github.com/RedByte1337/GraphSpy) | Very similar to GraphRunner, but written in Python with a few more features. Very awesome architecture with support for multiple databases. | Python | ![GitHub Last Commit](https://img.shields.io/github/last-commit/RedByte1337/GraphSpy?style=for-the-badge&color=informational) |
 
 
 <br>
